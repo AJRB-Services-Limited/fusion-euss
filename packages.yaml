@@ -1,0 +1,14 @@
+- name: "Visual Studio Code"
+  appcode: "vscode"
+  description: "Code editing. Redefined."
+  icon: "vscode.png"
+
+- name: "Slack"
+  appcode: "slack"
+  description: "Communication for teams."
+  icon: "slack.png"
+
+- name: "Google Chrome"
+  appcode: "chrome"
+  description: "Web Browser"
+  icon: "chrome.png"
