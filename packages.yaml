@@ -12,3 +12,13 @@
   appcode: "chrome"
   description: "Web Browser"
   icon: "chrome.png"
+
+- name: "Microsoft Edge"
+  appcode: "edge"
+  description: "Web Browser"
+  icon: "edge.png"
+
+- name: "Mozilla Firefox"
+  appcode: "firefox"
+  description: "Web Browser"
+  icon: "firefox.png"
