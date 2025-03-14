@@ -35,7 +35,7 @@
   icon: "7zip.png"
 
 - name: "Notepad++"
-  appcode: "notepadplusplus"
+  appcode: "notepadplusplus.install"
   description: "Free Text Editor"
   category: "Productivity"
   icon: "notepadplusplus.png"
