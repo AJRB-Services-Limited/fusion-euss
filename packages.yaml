@@ -28,7 +28,7 @@
   description: "Open-Source File Archiver"
   icon: "7zip.png"
 
-- name: "Notepad Plus Plus"
+- name: "Notepad++"
   appcode: "notepadplusplus"
   description: "Free Text Editor"
   icon: "notepadplusplus.png"
