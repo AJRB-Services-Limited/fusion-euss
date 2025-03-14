@@ -22,3 +22,8 @@
   appcode: "firefox"
   description: "Web Browser"
   icon: "firefox.png"
+
+- name: "7-Zip"
+  appcode: "7zip"
+  description: "Open-Source File Archiver"
+  icon: "7zip.png"
